@@ -17,7 +17,7 @@ const Hero: React.FC = () => {
           </div>
           <h1 className="text-gray-950 max-w-sm md:max-w-xl font-bold text-3xl md:text-5xl leading-normal text-start">
             {" "}
-            Hire Your Ride Across Kenya With Us
+            Hire Your Ride Across Kenya 
           </h1>
           <p className="text-gray-700 lg:max-w-xl max-w-sm text-start text-sm lg:text-base">
             Drive your dreams with our hassle-free car rental service-Where
